@@ -1,0 +1,1 @@
+# egspec-resource-hub
